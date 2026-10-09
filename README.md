@@ -1,23 +1,23 @@
-# Pixology Venture OS
+# Pixology — Venture Portfolio Concept
 
-A lightweight, evidence-led operating system for venture engineering. It turns operational pain into a structured sequence: observe, architect, build, integrate and scale.
+An illustrative portfolio piece exploring how a new digital venture could be presented, from initial idea to user experience.
 
-## What this demonstrates
+This **public repository contains a design showcase**, not proprietary methods, client workspaces or an operating dashboard.
 
-- Explicit evidence and assumption tracking
-- Readiness scoring across problem, solution and commercial model
-- Stage gates that prevent premature scaling
-- A reusable methodology behind Pixology ventures such as MADAEN
+## Preview elements
 
-## Run
+- Clear venture storytelling
+- Product experience and visual exploration
+- Sample presentation cards and concept milestones
+- Responsive, viewer-friendly layout
+
+## Run locally
 
 ```bash
 npm install
 npm run start
 ```
 
-## Integrity note
-
-The interface uses clearly labeled demonstration data. It is a public portfolio artifact, not a claim of audited traction.
+**All example stages, names and indicators are illustrative only.** They do not represent validated business performance, private strategies or live operations.
 
 Built by **Pixology** — Venture Engineering for Real-World Businesses.
